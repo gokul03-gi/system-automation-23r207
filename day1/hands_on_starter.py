@@ -13,8 +13,10 @@ Need the answer? See hands_on_solution.py — but try it yourself first.
 
 import random
 import time
+from pathlib import Path
 
-LOG_FILE = "day1_log.txt"
+BASE_DIR = Path(__file__).resolve().parent
+LOG_FILE = BASE_DIR / "day1_log.txt"
 MACHINES = ("Machine-01", "Machine-02", "Machine-03", "Machine-04", "Machine-05")
 
 

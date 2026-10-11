@@ -1,0 +1,170 @@
+reading={'temperature': 58.082339897514196, 'pressure': 112.9601378475662, 'vibration': 4.780596365797786, 'current': 174.83112806254223} rule=HIGH_PRESSURE action=REDUCE_LOAD
+reading={'temperature': 55.319899152572, 'pressure': 97.183463996352, 'vibration': 1.0505974321587885, 'current': 105.40465223435005} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+reading={'temperature': 61.400226420698246, 'pressure': 94.45085244215699, 'vibration': 1.4311815023340897, 'current': 133.45954959030752} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+reading={'temperature': 63.98156221073716, 'pressure': 90.72662588631174, 'vibration': 0.9733270616344365, 'current': 164.99194779198763} rule=HIGH_CURRENT action=SHUTDOWN
+reading={'temperature': 60.84745609106287, 'pressure': 97.42270668017052, 'vibration': 4.564077172910855, 'current': 173.92944848862953} rule=HIGH_CURRENT action=SHUTDOWN
+reading={'temperature': 89.26059038689854, 'pressure': 93.43231056791151, 'vibration': 0.7587470538745112, 'current': 71.57963215511263} rule=HIGH_TEMP action=STOP_MACHINE
+reading={'temperature': 71.69169844134802, 'pressure': 90.39192840701345, 'vibration': 5.811825230384151, 'current': 59.53588296445825} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+reading={'temperature': 83.0442496915152, 'pressure': 107.24175446438899, 'vibration': 5.128736591041537, 'current': 132.83619992621394} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+reading={'temperature': 64.92858891639001, 'pressure': 102.18723878440193, 'vibration': 4.699452085076918, 'current': 128.5537555561657} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+reading={'temperature': 82.07098702812304, 'pressure': 106.53351359520913, 'vibration': 6.017450551856669, 'current': 170.03282134200956} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+reading={'temperature': 90.76803555720593, 'pressure': 91.16134502566413, 'vibration': 7.983688720050192, 'current': 122.05955719617572} rule=HIGH_TEMP action=STOP_MACHINE
+reading={'temperature': 76.96943719284296, 'pressure': 95.31172394867778, 'vibration': 3.608348527718957, 'current': 77.25489636405027} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+reading={'temperature': 63.7461516034018, 'pressure': 98.80513381856973, 'vibration': 6.290103812502958, 'current': 90.07126325150165} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+reading={'temperature': 59.53688891297002, 'pressure': 114.27888871231275, 'vibration': 6.355645442017063, 'current': 51.43320417329239} rule=HIGH_PRESSURE action=REDUCE_LOAD
+reading={'temperature': 91.6104953169039, 'pressure': 114.77968829125587, 'vibration': 0.841145619027158, 'current': 120.65656700867737} rule=HIGH_TEMP action=STOP_MACHINE
+reading={'temperature': 58.13621840819056, 'pressure': 104.00720377944504, 'vibration': 1.885466396757139, 'current': 133.948329430174} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+reading={'temperature': 51.509699074169035, 'pressure': 91.21769266039398, 'vibration': 2.696181185327331, 'current': 102.14385360394755} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+reading={'temperature': 57.17224839746758, 'pressure': 92.7910864918441, 'vibration': 3.4703144948891875, 'current': 179.815030457433} rule=HIGH_CURRENT action=SHUTDOWN
+reading={'temperature': 50.995747875684856, 'pressure': 91.84695547839183, 'vibration': 7.888643052333847, 'current': 43.24150916320739} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+reading={'temperature': 82.58258287278449, 'pressure': 100.19526591116401, 'vibration': 0.5929975876562567, 'current': 160.2487362063208} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-01 reading={'temperature': 70.25602170610193, 'pressure': 108.81146241633832, 'vibration': 2.634876526550498, 'current': 140.16115175859812} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 61.19703231681417, 'pressure': 105.54568643340686, 'vibration': 5.8101540942666485, 'current': 106.9544167254939} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 64.9855526048061, 'pressure': 111.2920103921899, 'vibration': 1.576582071542943, 'current': 49.2054575229247} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 55.772628445218466, 'pressure': 91.33908059370108, 'vibration': 3.187366107899197, 'current': 83.59219205397903} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-05 reading={'temperature': 57.106270056926306, 'pressure': 101.13431992881802, 'vibration': 7.270799021716884, 'current': 56.48019025910912} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-01 reading={'temperature': 52.69009182517527, 'pressure': 112.55958071770642, 'vibration': 7.058030349513785, 'current': 90.88453557306485} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-02 reading={'temperature': 93.90070752852382, 'pressure': 96.63750293566335, 'vibration': 2.3343334424854385, 'current': 146.16862836604736} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-03 reading={'temperature': 64.36176268880621, 'pressure': 96.52186073157387, 'vibration': 6.20455343266496, 'current': 135.93850355658014} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-04 reading={'temperature': 61.15563909895055, 'pressure': 92.50634257293866, 'vibration': 7.128336945302363, 'current': 73.23355891984194} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-05 reading={'temperature': 80.95575585109796, 'pressure': 109.67203968696224, 'vibration': 7.362639348618867, 'current': 100.99977167317581} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-01 reading={'temperature': 55.25257318114885, 'pressure': 104.65574214988591, 'vibration': 5.727836982028293, 'current': 80.69647887224625} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 76.41646365983713, 'pressure': 90.11197259960466, 'vibration': 5.055402189719389, 'current': 121.85680701047461} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 50.40195054929377, 'pressure': 94.44218835850215, 'vibration': 4.233934287203278, 'current': 178.54899332050093} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-04 reading={'temperature': 65.61902518130316, 'pressure': 109.38299772321727, 'vibration': 2.4552753851461495, 'current': 147.27907719851368} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-05 reading={'temperature': 52.49955396796615, 'pressure': 110.16830372377747, 'vibration': 7.931799687775355, 'current': 143.10984286271076} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-01 reading={'temperature': 58.790020808640264, 'pressure': 104.44299277977606, 'vibration': 2.2031730490944588, 'current': 83.63700372043405} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 82.00143740108865, 'pressure': 94.62248741723015, 'vibration': 6.731795659537892, 'current': 68.77811572308545} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-03 reading={'temperature': 60.788542643716866, 'pressure': 111.98887703482431, 'vibration': 6.799913685609898, 'current': 84.57391128158912} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 55.431663801289936, 'pressure': 117.91566214314813, 'vibration': 5.672188650146324, 'current': 171.7119434339518} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 70.76530357774722, 'pressure': 118.84143000369903, 'vibration': 2.24857470937521, 'current': 86.42355225360481} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-01 reading={'temperature': 51.838307804652516, 'pressure': 98.88607285541646, 'vibration': 6.2613678634765195, 'current': 52.583472792208426} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-02 reading={'temperature': 83.01499495116721, 'pressure': 97.46210028996133, 'vibration': 2.7648321492416263, 'current': 158.5520544875491} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-03 reading={'temperature': 58.82623263125121, 'pressure': 98.87892054213751, 'vibration': 5.580339747789468, 'current': 57.83284099817432} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-04 reading={'temperature': 54.64228961752451, 'pressure': 110.75022454992549, 'vibration': 3.5549837541715, 'current': 135.4070687757445} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 63.72599059885958, 'pressure': 95.40407192032599, 'vibration': 1.0094775328449908, 'current': 104.30114847068029} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-01 reading={'temperature': 86.3081131416848, 'pressure': 95.58528158582652, 'vibration': 3.3737286161937474, 'current': 79.7031162855985} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-02 reading={'temperature': 94.65850160290742, 'pressure': 101.11573089646636, 'vibration': 3.7643531370953487, 'current': 92.44094063262311} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-03 reading={'temperature': 81.28083417287985, 'pressure': 94.78365684034769, 'vibration': 0.7600002324756351, 'current': 52.887436482963125} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-04 reading={'temperature': 79.20560950092298, 'pressure': 110.27917814680308, 'vibration': 7.316178851460208, 'current': 61.85378410808088} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 63.291118687760466, 'pressure': 95.34854605772472, 'vibration': 3.6241434168669255, 'current': 99.27817549059213} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-01 reading={'temperature': 53.377449497360075, 'pressure': 114.08977404291363, 'vibration': 4.050031898455715, 'current': 101.6523723406768} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-02 reading={'temperature': 70.19544261484651, 'pressure': 113.34134368716462, 'vibration': 4.4297734637487975, 'current': 81.35240373829436} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-03 reading={'temperature': 71.30130894974928, 'pressure': 93.35004513584536, 'vibration': 5.8506742708565005, 'current': 150.68328652800534} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-04 reading={'temperature': 73.96232760202184, 'pressure': 114.81250984465532, 'vibration': 2.5147509856164474, 'current': 108.63891645622793} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 58.16842545697217, 'pressure': 115.51698097390874, 'vibration': 3.8071179281626546, 'current': 152.3628029503779} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-01 reading={'temperature': 81.61327977612814, 'pressure': 100.61462190256665, 'vibration': 5.181679945995859, 'current': 91.95033672392555} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 52.18705692019723, 'pressure': 112.41965909958621, 'vibration': 3.3731763508414856, 'current': 130.06336421183474} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-03 reading={'temperature': 80.12350145451234, 'pressure': 92.12659855304601, 'vibration': 2.3752879081980156, 'current': 179.65672598700544} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-04 reading={'temperature': 76.70015547018522, 'pressure': 116.57480533515626, 'vibration': 4.2113229543144275, 'current': 144.06878248372965} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 66.55803940267757, 'pressure': 112.14288681542997, 'vibration': 7.541243778227183, 'current': 143.3778087589704} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-01 reading={'temperature': 67.92784935647268, 'pressure': 113.36697177855625, 'vibration': 6.382333048127119, 'current': 92.02998605679898} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-02 reading={'temperature': 76.21464609129308, 'pressure': 111.31461642902914, 'vibration': 1.3794847994998853, 'current': 58.65494062031071} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-03 reading={'temperature': 60.24061485989748, 'pressure': 110.2665457883441, 'vibration': 1.4280350746612698, 'current': 58.721833596596085} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 83.9650616404371, 'pressure': 93.10753801250132, 'vibration': 7.72449463625499, 'current': 111.71864746135975} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-05 reading={'temperature': 86.11000760383722, 'pressure': 105.75875636278963, 'vibration': 7.280366940335994, 'current': 81.74967420415621} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-01 reading={'temperature': 92.50757483335065, 'pressure': 94.00080044685245, 'vibration': 6.895729260582908, 'current': 54.06122748718829} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-02 reading={'temperature': 52.23615411349572, 'pressure': 101.8506621037334, 'vibration': 5.3946361244278025, 'current': 100.58350680602604} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 78.42069195377698, 'pressure': 119.72390649765188, 'vibration': 3.988886647654856, 'current': 72.23579945916907} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 64.71921133963, 'pressure': 105.67766654495469, 'vibration': 5.172038966447597, 'current': 62.376637968411565} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-05 reading={'temperature': 88.37505114034502, 'pressure': 118.2620437945022, 'vibration': 1.0801750780487513, 'current': 177.00784473561927} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-01 reading={'temperature': 86.81832059756842, 'pressure': 99.4295002095632, 'vibration': 5.764233941758847, 'current': 91.10926009162154} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-02 reading={'temperature': 88.73847666175756, 'pressure': 111.5278064727526, 'vibration': 3.0789123890395245, 'current': 86.7423814490877} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-03 reading={'temperature': 58.23811993663198, 'pressure': 94.16887327621514, 'vibration': 1.5088224330744637, 'current': 178.15869215609277} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-04 reading={'temperature': 88.30207989377357, 'pressure': 109.47816507362549, 'vibration': 7.497252977189119, 'current': 141.715913911837} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 94.93360283692158, 'pressure': 101.98062791375824, 'vibration': 5.661213665264678, 'current': 117.2665041930139} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-01 reading={'temperature': 72.07501106171011, 'pressure': 106.83283317166482, 'vibration': 4.105728006781591, 'current': 127.74632246636378} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 62.33713270298784, 'pressure': 112.64894251388844, 'vibration': 6.995166088188501, 'current': 91.16723422832374} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-03 reading={'temperature': 78.87812500580802, 'pressure': 112.60784072373235, 'vibration': 5.601990225981966, 'current': 106.7072841272598} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 85.16449491690155, 'pressure': 101.80132253026109, 'vibration': 6.484316823933138, 'current': 76.52444248801338} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 69.06989073204596, 'pressure': 91.43601190204524, 'vibration': 4.143579081728195, 'current': 53.83656130209956} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-01 reading={'temperature': 89.74648326278088, 'pressure': 102.78148735342914, 'vibration': 2.6529285337319184, 'current': 107.47452420213283} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-02 reading={'temperature': 50.12467951204478, 'pressure': 112.88244832255405, 'vibration': 2.148135186043774, 'current': 126.9935482014988} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-03 reading={'temperature': 64.9873242795716, 'pressure': 102.53452277379225, 'vibration': 4.794531562860134, 'current': 102.61950827248798} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-04 reading={'temperature': 93.3686775199438, 'pressure': 117.41469310046757, 'vibration': 4.074271502108351, 'current': 98.71804169965043} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 88.18505761966271, 'pressure': 96.52744698020905, 'vibration': 0.7634528591470031, 'current': 97.08029161048114} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-01 reading={'temperature': 51.46496362361632, 'pressure': 117.86243144539631, 'vibration': 4.63645978463572, 'current': 83.12615352582739} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-02 reading={'temperature': 58.51699838501405, 'pressure': 92.76606415464802, 'vibration': 0.5609022588352531, 'current': 86.13860135637685} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 94.74141281901905, 'pressure': 105.65282851229423, 'vibration': 6.867645321861294, 'current': 55.25267206269781} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-04 reading={'temperature': 89.88964554994685, 'pressure': 109.4833795031625, 'vibration': 1.4333765447860454, 'current': 132.92198362707845} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 74.30168838246962, 'pressure': 92.19541493935972, 'vibration': 1.3931507579447395, 'current': 164.0564835127624} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-01 reading={'temperature': 77.23703372825176, 'pressure': 111.46592529602704, 'vibration': 2.6308897325499836, 'current': 58.381250998391344} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-02 reading={'temperature': 69.3135301939615, 'pressure': 93.38381314584181, 'vibration': 0.7918368010703276, 'current': 63.1741833436031} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 89.3696293102517, 'pressure': 99.2613206190054, 'vibration': 1.7703442967613134, 'current': 97.9163628662348} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-04 reading={'temperature': 90.34984251246968, 'pressure': 114.76088623574645, 'vibration': 4.147821894279293, 'current': 63.266794598234995} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 71.45153369882567, 'pressure': 113.99259670077801, 'vibration': 2.477020347926029, 'current': 41.75997119460722} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-01 reading={'temperature': 75.94785742812783, 'pressure': 96.79273174651195, 'vibration': 4.7249120101519, 'current': 125.99886907016469} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 82.90546934167165, 'pressure': 96.70196433184047, 'vibration': 4.017839280019642, 'current': 149.67059801520895} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 69.44732398883487, 'pressure': 118.54838981938286, 'vibration': 7.0643822844805095, 'current': 64.13980282932597} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 69.91594331571085, 'pressure': 110.4131190864927, 'vibration': 2.29665531251524, 'current': 106.70237320781212} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 80.49359492987145, 'pressure': 109.14515934744384, 'vibration': 2.013396251877067, 'current': 81.0652921052247} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-01 reading={'temperature': 75.05290634157586, 'pressure': 90.1421476589452, 'vibration': 0.7358072077215723, 'current': 106.96054300452892} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 69.57168052828303, 'pressure': 95.81774166453827, 'vibration': 6.4263408933172235, 'current': 70.51475964250665} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-03 reading={'temperature': 60.94502828636725, 'pressure': 106.88363073811753, 'vibration': 3.4126365950000017, 'current': 148.95835584027503} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-04 reading={'temperature': 86.79047372092127, 'pressure': 106.09076448940348, 'vibration': 3.309474443899994, 'current': 113.96744036376484} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 63.183843753728056, 'pressure': 91.45206453757056, 'vibration': 6.42386404520765, 'current': 65.44612449257706} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-01 reading={'temperature': 51.828582434626036, 'pressure': 99.8965220744191, 'vibration': 2.9710973958491533, 'current': 96.23634187368438} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 72.25843668973039, 'pressure': 119.49161021090922, 'vibration': 2.8616934058877597, 'current': 75.26336805801057} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-03 reading={'temperature': 69.35631615947057, 'pressure': 119.15662531467208, 'vibration': 1.5324820862190018, 'current': 131.85528456468606} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 60.401752546704536, 'pressure': 117.09633218255478, 'vibration': 3.8780762385107272, 'current': 120.23895552667679} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 62.76086716739373, 'pressure': 103.17903896330635, 'vibration': 1.9571130128238368, 'current': 151.86476481848672} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-01 reading={'temperature': 61.19947719689704, 'pressure': 107.18592245854822, 'vibration': 3.3395421413829802, 'current': 135.73007717423758} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 78.5555256903227, 'pressure': 117.3552229501794, 'vibration': 0.9420397012193183, 'current': 78.57646199622418} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-03 reading={'temperature': 89.47964096435197, 'pressure': 96.00203516296276, 'vibration': 2.1176397498082724, 'current': 128.88969138962497} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-04 reading={'temperature': 91.25472489372189, 'pressure': 93.97883094008215, 'vibration': 5.11198899626853, 'current': 41.52329626381322} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 93.32111007927384, 'pressure': 90.28877729403915, 'vibration': 6.046321106535163, 'current': 73.47984643828116} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-01 reading={'temperature': 80.68294500102505, 'pressure': 98.25680125909699, 'vibration': 7.878569240718365, 'current': 55.14486712591733} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-02 reading={'temperature': 57.88417003784424, 'pressure': 99.77369476163044, 'vibration': 0.5713003828683662, 'current': 136.368116561497} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 86.10203325412832, 'pressure': 115.03100580490165, 'vibration': 5.956549196007794, 'current': 125.92965742516682} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-04 reading={'temperature': 54.3582141238391, 'pressure': 115.17250050488173, 'vibration': 7.0968450074438305, 'current': 114.1612037705425} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 51.53595713190552, 'pressure': 116.67880956643089, 'vibration': 4.0825409533604535, 'current': 58.85094971292152} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-01 reading={'temperature': 77.21247832189633, 'pressure': 112.43672850097668, 'vibration': 0.9689333995284123, 'current': 100.55131770798266} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-02 reading={'temperature': 88.88125100091865, 'pressure': 99.4275815315101, 'vibration': 6.527532960312178, 'current': 100.83346316587986} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-03 reading={'temperature': 80.41298515694504, 'pressure': 119.1891788426226, 'vibration': 1.1458266534559716, 'current': 81.79777040910338} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 57.24892986401284, 'pressure': 106.5911866950917, 'vibration': 6.504481528278703, 'current': 165.03575434142664} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-05 reading={'temperature': 55.222871751841346, 'pressure': 103.37310667229958, 'vibration': 0.956893191704679, 'current': 113.22216634234853} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-01 reading={'temperature': 72.35975852392208, 'pressure': 112.23562315693242, 'vibration': 6.553434278597729, 'current': 104.8418994865014} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-02 reading={'temperature': 85.61192743255229, 'pressure': 103.5016761685305, 'vibration': 2.1405379026280276, 'current': 74.85866529739494} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-03 reading={'temperature': 64.87561914422086, 'pressure': 106.33730808225769, 'vibration': 4.5119186100042885, 'current': 97.77600367237986} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-04 reading={'temperature': 92.92197042598738, 'pressure': 90.50427223218081, 'vibration': 3.086351585299748, 'current': 99.79931534333083} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 89.69838522067388, 'pressure': 103.76116286514336, 'vibration': 7.501026733582278, 'current': 155.29885428906462} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-01 reading={'temperature': 58.381740715945725, 'pressure': 109.68340596230115, 'vibration': 7.912203877157729, 'current': 134.5910370112349} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-02 reading={'temperature': 93.1728158730987, 'pressure': 115.72236048921329, 'vibration': 1.1176350951768006, 'current': 77.80993690588619} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-03 reading={'temperature': 88.31241659813304, 'pressure': 101.4425012094283, 'vibration': 0.865907767348535, 'current': 106.23869073976229} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-04 reading={'temperature': 93.63786977169293, 'pressure': 114.0452342893891, 'vibration': 2.5785899617809815, 'current': 64.84618553311711} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 90.28129715933773, 'pressure': 96.32517324408185, 'vibration': 3.541557443194032, 'current': 79.80887038227414} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-01 reading={'temperature': 52.94667139771379, 'pressure': 102.65200952283263, 'vibration': 6.487054662555184, 'current': 145.00256173945098} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-02 reading={'temperature': 53.82374787337247, 'pressure': 117.42560146730351, 'vibration': 0.6499769785933682, 'current': 168.50981072274178} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-03 reading={'temperature': 77.52929797335285, 'pressure': 98.66848036015635, 'vibration': 4.549496158302725, 'current': 89.74986039893702} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-04 reading={'temperature': 87.7182227609199, 'pressure': 115.01421328664634, 'vibration': 2.474878742867598, 'current': 179.44140242204242} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-05 reading={'temperature': 56.72986426700683, 'pressure': 99.57608176399177, 'vibration': 6.898814826478066, 'current': 161.65767507358493} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-01 reading={'temperature': 61.2115352140396, 'pressure': 115.61547982291411, 'vibration': 6.044212377718391, 'current': 50.65471025151095} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-02 reading={'temperature': 70.80382784475661, 'pressure': 92.69039627471618, 'vibration': 0.6883189560505005, 'current': 52.70224230684577} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 70.5055039128994, 'pressure': 116.51542353513733, 'vibration': 6.90138462314821, 'current': 43.85627984680798} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 74.50301540626862, 'pressure': 93.8530817052183, 'vibration': 1.152463802844943, 'current': 167.1600770097369} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-05 reading={'temperature': 73.02943177871718, 'pressure': 97.19395690142751, 'vibration': 3.110812621390004, 'current': 170.3480370218844} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-01 reading={'temperature': 74.56064877817207, 'pressure': 105.60959776855913, 'vibration': 5.30096933548125, 'current': 73.74827396876694} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 55.48681703461592, 'pressure': 104.87030332846363, 'vibration': 5.739547926942143, 'current': 111.5356026763272} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 57.641991433366435, 'pressure': 92.90534336724522, 'vibration': 3.697292368629498, 'current': 169.72559184467647} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-04 reading={'temperature': 77.88129353280767, 'pressure': 107.82310584688227, 'vibration': 2.0726502944614795, 'current': 97.05733045812524} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-05 reading={'temperature': 54.61769873486937, 'pressure': 113.82255678988699, 'vibration': 7.1763746594312225, 'current': 52.350390491746055} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-01 reading={'temperature': 79.6457874728047, 'pressure': 116.21707315055372, 'vibration': 1.5738245693048085, 'current': 147.47072028578367} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-02 reading={'temperature': 61.983404375837864, 'pressure': 93.45326108896101, 'vibration': 7.458989941966161, 'current': 43.007566852720345} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-03 reading={'temperature': 54.09392835159466, 'pressure': 118.84486446768253, 'vibration': 7.749141153356873, 'current': 78.70065436311202} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 53.05870609184218, 'pressure': 108.35888653672731, 'vibration': 6.747406040359839, 'current': 118.15233907852202} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-05 reading={'temperature': 73.49163546571651, 'pressure': 109.23924117348714, 'vibration': 4.37531171530032, 'current': 156.88416248955292} rule=HIGH_CURRENT action=SHUTDOWN
+machine=Machine-01 reading={'temperature': 93.0886542451959, 'pressure': 102.35906961510602, 'vibration': 3.209327572432983, 'current': 172.80458452912447} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-02 reading={'temperature': 63.65601912682281, 'pressure': 100.22944605293952, 'vibration': 3.438402735531212, 'current': 88.09172486259132} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-03 reading={'temperature': 77.02002691867807, 'pressure': 119.0418324029911, 'vibration': 4.356063761829089, 'current': 46.2153933326602} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 58.574840118012006, 'pressure': 111.95658867230499, 'vibration': 3.8238563575533147, 'current': 165.84555582136727} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 60.485736706026444, 'pressure': 105.94878074093675, 'vibration': 1.420402347424989, 'current': 77.19111942515552} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-01 reading={'temperature': 83.39243135074473, 'pressure': 94.53243894682896, 'vibration': 4.384346394424247, 'current': 74.02228222072878} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 68.28141327881896, 'pressure': 114.74792408439744, 'vibration': 1.4106321083186684, 'current': 118.83656736750163} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-03 reading={'temperature': 90.4936523535264, 'pressure': 115.78322417033164, 'vibration': 1.9146489824122193, 'current': 61.539995709250036} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-04 reading={'temperature': 54.27506460909193, 'pressure': 114.04899106554686, 'vibration': 5.155800984430043, 'current': 86.22338699255454} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-05 reading={'temperature': 67.11560627065401, 'pressure': 90.49627738410202, 'vibration': 1.1854293201084767, 'current': 149.74534654052837} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-01 reading={'temperature': 72.13820145030603, 'pressure': 104.65846067054, 'vibration': 5.289540468349701, 'current': 108.87294087350371} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
+machine=Machine-02 reading={'temperature': 91.31525449884444, 'pressure': 102.54205325778159, 'vibration': 7.914200380504917, 'current': 61.08945298581905} rule=HIGH_TEMP action=STOP_MACHINE
+machine=Machine-03 reading={'temperature': 50.92886475105611, 'pressure': 114.45451348918265, 'vibration': 7.562132014199626, 'current': 133.04109693405292} rule=HIGH_PRESSURE action=REDUCE_LOAD
+machine=Machine-04 reading={'temperature': 66.19665816232295, 'pressure': 102.90746520093711, 'vibration': 6.947000449932735, 'current': 78.50437850337747} rule=HIGH_VIBRATION action=CHECK_ALIGNMENT
+machine=Machine-05 reading={'temperature': 84.06164876166903, 'pressure': 101.87883963075227, 'vibration': 4.2254491956109, 'current': 50.28664714828558} rule=NO_RULE_FIRED action=CONTINUE_NORMAL
