@@ -5,7 +5,7 @@ import joblib
 import pandas as pd
 
 from datetime import datetime
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, classification_report
 from sklearn.model_selection import train_test_split
 
 # --------------------------------------------------
@@ -66,11 +66,23 @@ _, test_data, _, test_labels = train_test_split(
     test_size=0.2,
     random_state=42
 )
-test_accuracy = accuracy_score(test_labels, model.predict(test_data))
+test_predictions = model.predict(test_data)
+test_accuracy = accuracy_score(test_labels, test_predictions)
 
 print("Dataset loaded successfully.")
 print("Predictive maintenance model loaded.")
-print(f"Held-out dataset accuracy: {test_accuracy * 100:.2f}%")
+print("=" * 40)
+print("       MODEL EVALUATION REPORT")
+print("=" * 40)
+print(f"Overall Accuracy Score: {test_accuracy * 100:.2f}%")
+print("\nDetailed Performance Breakdown:")
+print(
+    classification_report(
+        test_labels,
+        test_predictions,
+        zero_division=0
+    )
+)
 print("Starting live machine monitoring...\n")
 
 # --------------------------------------------------
